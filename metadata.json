@@ -1,0 +1,6 @@
+{
+  "name": "Annual Sales",
+  "description": "An interactive annual sales intelligence dashboard for 2022-2024 built using React, Vite, Tailwind CSS, Express, and Recharts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
